@@ -28,7 +28,7 @@ I combine deep expertise in **UNIX systems**, **networking** (DNS, BGP, eBPF), a
 
 ## 🎯 Featured Project
 
-### 🏆 [dnsdiag](https://github.com/farrokhi/dnsdiag) ⭐ 988+
+### 🏆 [dnsdiag](https://github.com/farrokhi/dnsdiag) ⭐ 998+
 **DNS Measurement, Troubleshooting and Security Auditing Toolset**
 
 A comprehensive toolkit for DNS diagnostics, similar to traditional network tools like ping and traceroute but specifically designed for DNS infrastructure. Used by network engineers and security professionals worldwide.
