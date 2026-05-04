@@ -31,11 +31,6 @@ DNS measurement, troubleshooting and security auditing toolkit. Similar to tradi
 
 **Tools:** `dnsping`, `dnstraceroute`, `dnseval` | **Protocols:** UDP, TCP, DoT, DoH | **Python** | **Docker available** 
 
-## GitHub Stats
-
-![Babak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farrokhi&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-
 **Find me on:**
 - **Website:** [farrokhi.net](http://farrokhi.net/)
 - **LinkedIn:** [linkedin.com/in/farrokhi](https://linkedin.com/in/farrokhi)
